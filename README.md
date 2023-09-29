@@ -24,10 +24,6 @@ This is a simple implementation of the Rock, Paper, Scissors game in the C progr
 - Scissors beats Paper
 - Paper beats Rock
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Author
 
 - N Lohith Reddy
